@@ -54,5 +54,7 @@ pip install turtle
 
 ### Initial Game Screen
 ![Start Game](./Screenshot_2.png)
+
+
 Enjoy playing the Snake Game! 🐍
 
