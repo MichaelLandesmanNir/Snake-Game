@@ -49,6 +49,10 @@ pip install turtle
 - Adding different levels of difficulty.
 - Enhancing the UI with a better design.
 - Implementing a high score tracking system.
+### Game Over Screen
+![Game Over](./Screenshot_1.png)
 
+### Initial Game Screen
+![Start Game](./Screenshot_2.png)
 Enjoy playing the Snake Game! 🐍
 
